@@ -1,0 +1,14 @@
+openai==1.98.0
+python-dotenv==1.1.1
+PyGithub==2.7.0
+cryptography==41.0.7
+requests==2.32.4
+urllib3==2.5.0
+PyJWT==2.10.1
+PyNaCl==1.5.0
+cffi==1.17.1
+pycparser==2.22
+charset-normalizer==3.4.2
+certifi==2025.8.3
+idna==3.10
+typing-extensions==4.14.1
