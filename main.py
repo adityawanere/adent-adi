@@ -26,7 +26,6 @@ def generate_text_with_conversation(messages, model="gpt-4o"):
 
 #Available actions are:
 available_actions = {
-    # "get_response_time": get_response_time,
     "restart_application": restart_application
 }
 
